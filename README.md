@@ -1,6 +1,6 @@
 # ContactsApp
 <br><br> 
-![](https://github.com/Abdi1717/ContactsApp/blob/master/images/1.png)
+<img src = “https://github.com/Abdi1717/ContactsApp/blob/master/images/1.png” width = 40 height =60>
 <br>
 
 <br><br>  
