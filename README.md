@@ -1,22 +1,22 @@
 # ContactsApp
 <br><br> 
-![first image](1.PNG)
+![](https://github.com/Abdi1717/ContactsApp/blob/master/images/1.png)
 <br>
 
 <br><br>  
-![second image](2.PNG)
+![](https://github.com/Abdi1717/ContactsApp/blob/master/images/2.png)
 <br> 
 
 <br><br>  
-![third image](3.PNG)
+![](3.PNG)
 <br> 
 <br><br> 
-![fourth image](4.PNG)
+![](4.PNG)
 <br>
 
 <br><br> 
-![fith image](5.PNG)
+![](5.PNG)
 <br> 
 <br><br> 
-![alt image](6.PNG)
+![](6.PNG)
 <br>
